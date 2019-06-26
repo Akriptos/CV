@@ -1,2 +1,2 @@
 # CV
-PRojet Ynov B1 - Arthur Terville
+Projet Ynov B1 - Arthur Terville
