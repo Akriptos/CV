@@ -1,0 +1,14 @@
+{
+    "name": "arthur/cv",
+    "description": "projet cv",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Arthur",
+            "email": "arthur.terville@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    }
+}
